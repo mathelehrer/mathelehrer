@@ -1,7 +1,7 @@
 - 👋 Hi, I’m youtube.com/@number_cruncher
 - 👀 I’m interested in 3d animations with mathematical content
 - 🌱 I’m currently learning blender, python, render
-- 💞️ I’m looking to collaborate a manim alternative with blender as a rendering engine
+- 💞️ I’m looking to collaborate for a manim alternative with blender as a rendering engine
 - 📫 How to reach me physik.martin@gmail.com
 
 <!---
